@@ -6,3 +6,6 @@ console.log(z);
 // o valor de Z = 22.5
 // Multiplicação: 5 x 9 = 45 / 2
 // y reduzido 
+// y-- = 9
+// x++ = 5
+//y%3 = 1 -- 0
