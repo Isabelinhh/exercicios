@@ -1,1 +1,1 @@
-# exercicios
+# exercicios - operadores lógicos
